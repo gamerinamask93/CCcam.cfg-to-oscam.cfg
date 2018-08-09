@@ -1,4 +1,4 @@
-# CCcam.cfg-to-oscam.cfg
+# CCcam.cfg-to-oscam.server
 Python CCcam.cfg to oscam.server converter
 
 put convert.py next to your CCcam.cfg file and make a BLANK oscam.server file then run:
